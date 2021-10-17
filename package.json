@@ -1,0 +1,25 @@
+{
+  "name": "chai-equal-for-long-text",
+  "version": "0.1.0",
+  "description": "Equal assertion for longer texts",
+  "main": "equal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakoch/chai-equal-for-long-text.git"
+  },
+  "keywords": [
+    "chai",
+    "equal",
+    "text",
+    "string"
+  ],
+  "author": "Adam Koch (aakoch)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aakoch/chai-equal-for-long-text/issues"
+  },
+  "homepage": "https://github.com/aakoch/chai-equal-for-long-text#readme"
+}
