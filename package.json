@@ -4,7 +4,7 @@
   "description": "Equal assertion for longer texts",
   "main": "equal.js",
   "scripts": {
-    "postversion": "git push --tags"
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
