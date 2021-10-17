@@ -6,6 +6,12 @@ I needed something a little better for long strings and couldn't find anything. 
 
 Assertion is only done on strings greater than 20 characters. Otherwise this calls the original method.
 
+## Installation
+
+```shell
+npm i chai-equal-for-long-text
+```
+
 ## Usage
 
 ```js
